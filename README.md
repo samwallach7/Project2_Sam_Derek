@@ -13,4 +13,4 @@ Attached please find the documents for Project 2 within the Crowdfunding_ETL fol
   - The 'SQL_Table_Screenshots' folder which displays screenshots from pgAdmin confirming that the crowdfunding_db database was created and the csv files were loaded into each created table.
 
     Thank you!
-    Derek Johnson & Sam Wallach
+    Sam Wallach & Derek Johnson
